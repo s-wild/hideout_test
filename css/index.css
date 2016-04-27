@@ -1,0 +1,16 @@
+/*
+* Global Styles
+*/
+body {
+  background: #eee;
+}
+.white-bg {
+  background-color: #fff;
+}
+/*
+* Task 1
+*/
+#t1 p {
+  padding: 1em;
+  background: #fff;
+}

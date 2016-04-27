@@ -14,3 +14,27 @@ body {
   padding: 1em;
   background: #fff;
 }
+/*
+* Task 2
+*/
+#t2 .fa {
+  font-size: 2.2em;
+}
+#siteSearch {
+  cursor: pointer;
+}
+#siteSearchAfter {
+  display: inline-block;
+  background: #fff;
+}
+
+#siteSearchAfter input {
+  border: 0;
+  padding: 1.5em 1em;
+}
+#searchButton {
+  display: inline-block;
+  padding: 0.2em;
+  vertical-align: middle;
+  margin-right: 1em;
+}
